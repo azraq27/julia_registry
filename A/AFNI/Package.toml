@@ -1,0 +1,3 @@
+name = "AFNI"
+uuid = "f93e136e-b245-11e8-01f8-6da12d78f1e7"
+repo = "https://github.com/azraq27/AFNI.jl"
