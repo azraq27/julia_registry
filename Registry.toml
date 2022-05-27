@@ -1,0 +1,6 @@
+name = "azraq27_julia"
+uuid = "5a6b51c0-c7a4-440f-992f-b6d57cfe3d11"
+repo = "https://github.com/azraq27/julia_registry"
+description = "Random personal packages"
+
+[packages]
