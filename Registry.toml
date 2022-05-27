@@ -5,4 +5,5 @@ description = "Random personal packages"
 
 [packages]
 a7949054-b901-59c6-b8e3-7238c29bf7f0 = { name = "MXNet", path = "M/MXNet" }
+b9f58579-d931-4c4e-be85-8847ec00cbb6 = { name = "BIDSTools2", path = "B/BIDSTools2" }
 f93e136e-b245-11e8-01f8-6da12d78f1e7 = { name = "AFNI", path = "A/AFNI" }
