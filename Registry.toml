@@ -4,4 +4,5 @@ repo = "https://github.com/azraq27/julia_registry"
 description = "Random personal packages"
 
 [packages]
+5c32dcf8-0cad-11ea-129f-5f4ce150df4b = { name = "BIDSTools", path = "B/BIDSTools" }
 a7949054-b901-59c6-b8e3-7238c29bf7f0 = { name = "MXNet", path = "M/MXNet" }
